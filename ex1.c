@@ -1,7 +1,7 @@
 /******************
-Name:
-ID:
-Assignment:
+Name: Mohamad Deb
+ID: 208184606
+Assignment: 1
 *******************/
 #include <stdio.h>
 
