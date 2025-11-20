@@ -36,7 +36,7 @@ int main()
     printf("Please enter a negative integer\n");
     scanf("%d", &num);
 
-    printf("1's complement: %d\n", ~num);
+    printf("1's complement: %d\n", -(-num - 1));
     printf("unsigned: %u\n", (unsigned int)num);
 
     printf("\n");
